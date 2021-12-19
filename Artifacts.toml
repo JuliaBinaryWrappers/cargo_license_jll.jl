@@ -1,0 +1,135 @@
+[[cargo_license]]
+arch = "aarch64"
+git-tree-sha1 = "8ea77cdb318008100bf43de32d797f8f00d2ba0e"
+os = "macos"
+
+    [[cargo_license.download]]
+    sha256 = "0c49c6fd3dbb471177f606763dcf13bb63b0415a5412ad3d9b1d82a30e50b6bb"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.aarch64-apple-darwin.tar.gz"
+[[cargo_license]]
+arch = "aarch64"
+git-tree-sha1 = "2a13396aaca3e76f60e898eebf7f7c3332da15a7"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "25714539b0b68602e9cae6a8c6cec4256f9fe82f4d126919f6bdd6143a31152b"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.aarch64-linux-gnu.tar.gz"
+[[cargo_license]]
+arch = "aarch64"
+git-tree-sha1 = "0d74e528f0ab577aaf74793804971c8f6a2d6313"
+libc = "musl"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "abacd97fd7ddfb0f3cfe6b9ce8cbbbef1d8b1ceb464fbfaeef5e2c6555e362b4"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.aarch64-linux-musl.tar.gz"
+[[cargo_license]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c45418a71e9ba4cce36e8c9872808a26cdae3cb7"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "8efdff560ca228459a2bd1870c7285cbdfbfdebe8a8d74d68b035db6799e7759"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.armv6l-linux-gnueabihf.tar.gz"
+[[cargo_license]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b4b7453a665ec3b0c7b47b938df695b443a7cb0b"
+libc = "musl"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "7968d6309edfb9fed9c2d580bc251aecb58ac677f4955d8c23d316599e5700a2"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.armv6l-linux-musleabihf.tar.gz"
+[[cargo_license]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9b9ae4b4519eb457da13c8d94761a3ad2f88e081"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "d65cd06ae8f22789e7f8226a30e20ead0e31a795e60c76e51407dc52e3962162"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.armv7l-linux-gnueabihf.tar.gz"
+[[cargo_license]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6114a2f3de42039127f25382d372f6b96b4c70f4"
+libc = "musl"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "0a521899dfb9a6f06a583ade2c93b50541127b5f83299105731c640f6a3154c3"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.armv7l-linux-musleabihf.tar.gz"
+[[cargo_license]]
+arch = "i686"
+git-tree-sha1 = "e808acc4a3e5fbe4e4d4d9e4a2331df9e57ba3b2"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "de94a6c8cede9e3964bf4035617884181188398906925f09a10dac2ee39eebc0"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.i686-linux-gnu.tar.gz"
+[[cargo_license]]
+arch = "i686"
+git-tree-sha1 = "456911397f99417c4d3d4be983e798922a8d98a3"
+libc = "musl"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "d5986df452346f3038f66479a8429e06e8ae182c6a353866edbbcce022898236"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.i686-linux-musl.tar.gz"
+[[cargo_license]]
+arch = "powerpc64le"
+git-tree-sha1 = "43ff846be56a510faacf0bb815814c8a7b8c75db"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "d0575144d31adcfe9f4c75320fc5225dacc66bed9749f38c3bea46c51466e87c"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.powerpc64le-linux-gnu.tar.gz"
+[[cargo_license]]
+arch = "x86_64"
+git-tree-sha1 = "d89bd0ff786346bf4fc0fb15f4aaacf8496b784c"
+os = "macos"
+
+    [[cargo_license.download]]
+    sha256 = "bf27ec0ef3854f976bb360bde4efce293ae6a725518dfbc212b32655fe9e1cbf"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.x86_64-apple-darwin.tar.gz"
+[[cargo_license]]
+arch = "x86_64"
+git-tree-sha1 = "ff03c39fe2c8859dfa4da2515f9873458df861ca"
+libc = "glibc"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "1fc166853005eb6f344f22df31f2aa15900f2f739ad3ba33aa0708abc61a842f"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.x86_64-linux-gnu.tar.gz"
+[[cargo_license]]
+arch = "x86_64"
+git-tree-sha1 = "16b2fcf174e147a3da9530db4fc58ed187d55626"
+libc = "musl"
+os = "linux"
+
+    [[cargo_license.download]]
+    sha256 = "a2c211b6de26cd503086fd8bfdcfb9b784f5b3f21969ba4f1628b65eb95d45e7"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.x86_64-linux-musl.tar.gz"
+[[cargo_license]]
+arch = "x86_64"
+git-tree-sha1 = "17521f9da9e5ead3166ffd4fcd1aea76d3b33274"
+os = "freebsd"
+
+    [[cargo_license.download]]
+    sha256 = "cc0a8158780a91fe7b35eaba46d5d29c680489dd4ca17cc9378fb0430ac3f97f"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.x86_64-unknown-freebsd.tar.gz"
+[[cargo_license]]
+arch = "x86_64"
+git-tree-sha1 = "98928db9e43cfddde9564ae31b049670633ccb1d"
+os = "windows"
+
+    [[cargo_license.download]]
+    sha256 = "afe18d05ddb6a2b1eb0b7738de5c8f3817b732932cc609ed2853349f24707b88"
+    url = "https://github.com/JuliaBinaryWrappers/cargo_license_jll.jl/releases/download/cargo_license-v0.4.2+0/cargo_license.v0.4.2.x86_64-w64-mingw32.tar.gz"
